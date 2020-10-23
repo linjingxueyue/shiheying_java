@@ -1,6 +1,6 @@
 package middlejava3;
 
-import java.lang.reflect.Array;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
@@ -67,5 +67,6 @@ class Person4{
 		this.nameString = nameString;
 		this.age = age;
 	}
+	
 	
 }
