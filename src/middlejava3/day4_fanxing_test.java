@@ -68,6 +68,7 @@ public class day4_fanxing_test {
 		order<String> order = new order<String>();
 		Integer [] arr = new Integer[] {1,2,3,4,5};
 		List<Integer> test_fanxing = order.test_fanxing(arr);
+
 	}
 }
 // ------------------------------------------------------------------------------------------------------
